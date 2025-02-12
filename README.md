@@ -64,9 +64,9 @@ BiocManager::install(c("DESeq2", "EnhancedVolcano"))
 - Adjust sample conditions as per the experimental design.
 
 ## References
-DESeq2 Documentation: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
-EnhancedVolcano: https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html
-DAVID Functional Annotation Tool: https://david.ncifcrf.gov
+- DESeq2 Documentation: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
+- EnhancedVolcano: https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html
+- DAVID Functional Annotation Tool: https://david.ncifcrf.gov
 
 ## Contact
 For any questions, feel free to reach out via [gangulyarpita561@gmail.com].
