@@ -14,5 +14,15 @@ To install the required R packages, run the following command:
 ```r
 install.packages(c("ggplot2", "pheatmap", "RColorBrewer"))
 BiocManager::install(c("DESeq2", "EnhancedVolcano"))
+```
+## Files in This Repository
 
+| File Name            | Description |
+|----------------------|------------|
+| `DEG_results.csv`    | Full differential expression results |
+| `Upregulated_genes.csv` | List of significantly upregulated genes |
+| `Volcano_Plot.png`   | Visualization of DEGs |
+| `Heatmap.png`        | Heatmap of top 20 DEGs |
+## Contact
+For any questions, feel free to reach out via [gangulyarpita561@gmail.com].
 
