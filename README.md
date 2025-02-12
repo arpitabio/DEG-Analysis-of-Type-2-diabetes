@@ -20,7 +20,7 @@ BiocManager::install(c("DESeq2", "EnhancedVolcano"))
    ```bash
    git clone https://github.com/arpitabio/DEG-Analysis-of-Type-2-diabetes.git
 2. Navigate into the project directory:
- `cd repo-name`
+ `cd DEG-Analysis-of-Type-2-diabetes`
 3. Open RStudio and run the script diabetes diabetes_R.R
 
 ## Workflow
