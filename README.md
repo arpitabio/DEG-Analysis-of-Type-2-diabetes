@@ -13,6 +13,6 @@ To install the required R packages, run the following command:
 
 ```r
 install.packages(c("ggplot2", "pheatmap", "RColorBrewer"))
-BiocManager::install(c("DESeq2", "EnhancedVolcano"))```
+BiocManager::install(c("DESeq2", "EnhancedVolcano"))
 
 
