@@ -53,7 +53,8 @@ BiocManager::install(c("DESeq2", "EnhancedVolcano"))
 | File Name            | Description |
 |----------------------|------------|
 | `DEG_results.csv`    | Full differential expression results |
-| `Upregulated_genes.csv` | List of significantly upregulated genes |
+| `Upregulated_genes.csv` | List of significantly upregulated genes, Genes with logFC > 1, padj < 0.05 |
+| `Downregulated_genes.csv` |List of significantly downregulated genes, Genes with logFC < -1, padj < 0.05|
 | `Volcano_Plot.png`   | Visualization of DEGs |
 | `Heatmap.png`        | Heatmap of top 20 DEGs |
 
