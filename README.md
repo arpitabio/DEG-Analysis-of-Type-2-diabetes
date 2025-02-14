@@ -1,4 +1,4 @@
-# Differential Gene Expression Analysis using DESeq2
+# Differential Gene Expression Analysis of Type 2 Diabetes using DESeq2
 This project performs differential gene expression (DGE) analysis using the DESeq2 package in R. It identifies genes that are significantly upregulated or downregulated between control and diabetic samples.
 ## Overview
 This project uses RNA-Seq count data to analyze differentially expressed genes (DEGs) using DESeq2 in R. The results are visualized with volcano plots, heatmaps, and PCA plots.
